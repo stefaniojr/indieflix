@@ -1,0 +1,147 @@
+{
+  "categorias": [
+    {
+      "titulo": "MEET FOLKLORE",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "black",
+      "link_extra": {
+        "text": "Taylor Swift's New Album",
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8"
+      },
+      "videos": [
+        {
+          "titulo": "TAYLOR SWIFT'S NEW ALBUM",
+          "url": "https://www.youtube.com/watch?v=osdoLjUNFnA&list=PLmU8B4gZ41icKdheg4d2KZBgDR1wSWfbH&index=4"
+        },
+        {
+          "titulo": "my tears ricochet",
+          "url": "https://www.youtube.com/watch?v=OWbDJFtHl3w&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=6&t=0s"
+        },
+        {
+          "titulo": "illicit affairs",
+          "url": "https://www.youtube.com/watch?v=MLV2SJKWk4M&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=11&t=0s"
+        },
+        {
+          "titulo": "peace",
+          "url": "https://www.youtube.com/watch?v=HpxX4ZE4KWE&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=16&t=0s"
+        },
+        {
+          "titulo": "hoax",
+          "url": "https://www.youtube.com/watch?v=ryLGxpjwAhM&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=17&t=0s"
+        }       
+      ]
+    },
+    {
+      "titulo": "THE BEST OF THE NEIGHBOURHOOD",
+      "cor": "black",
+      "link_extra": {
+        "text": "A mix of The Neighbourhood's majority sucess!",
+        "url": "https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw"
+      },
+      "videos": [
+        {
+          "titulo": "sweater weather",
+          "url": "https://www.youtube.com/watch?v=GCdwKhTtNNw"
+        },
+        {
+          "titulo": "daddy issues",
+          "url": "https://www.youtube.com/watch?v=_lMlsPQJs6U"
+        },
+        {
+          "titulo": "afraid",
+          "url": "https://www.youtube.com/watch?v=LILL0AV0938"
+        },
+        {
+          "titulo": "R.I.P 2 my youth",
+          "url": "https://www.youtube.com/watch?v=vKH-rcO6PA8&list=OLAK5uy_lFi_Re6fL1OEsudm7jjWAbRvLWNCX4CYA&index=4"
+        },
+        {
+          "titulo": "afraid (live)",
+          "url": "https://www.youtube.com/watch?v=kwZk3G-44kI&list=OLAK5uy_lFi_Re6fL1OEsudm7jjWAbRvLWNCX4CYA&index=45"
+        }
+      ]
+    },
+
+    {
+      "titulo": "REVISITING ULTRAVIOLENCE",
+      "cor": "black",
+      "link_extra": {
+        "text": "Revisiting Lana Del Rey's third album, Ultraviolence.",
+        "url": "https://www.youtube.com/playlist?list=PLMFUaRAk0WsZFrGmAm8MGRiRZ-5XUeBCy"
+      },
+      "videos": [
+        {
+          "titulo": "west coast",
+          "url": "https://www.youtube.com/watch?v=oKxuiw3iMBE&list=PLMFUaRAk0WsZFrGmAm8MGRiRZ-5XUeBCy&index=3"
+        },
+        {
+          "titulo": "shades of cool",
+          "url": "https://www.youtube.com/watch?v=rJABBmAMXnY&list=PLMFUaRAk0WsZFrGmAm8MGRiRZ-5XUeBCy&index=2"
+        },
+        {
+          "titulo": "ultraviolence",
+          "url": "https://www.youtube.com/watch?v=ZFWC4SiZBao&list=PLMFUaRAk0WsZFrGmAm8MGRiRZ-5XUeBCy&index=1"
+        }
+      ]
+    },
+  
+    {
+      "titulo": "OUR MOVIES RECOMENDATIONS",
+      "cor": "black",
+      "videos": [
+        {
+          "titulo": "interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "donnie darko",
+          "url": "https://www.youtube.com/watch?v=FZZqcmaALJs"
+        },
+        {
+          "titulo": "a chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "a teoria de tudo",
+          "url": "https://www.youtube.com/watch?v=SbUVNHdPE4w"
+        }
+      ]
+    },
+    {
+      "titulo": "WHAT WE LOVE READING",
+      "cor": "black",
+      "videos": [
+        {
+          "titulo": "the foundation trilogy",
+          "url": "https://www.youtube.com/watch?v=NV9Er9kwXWo"
+        },
+        {
+          "titulo": "the ballad of songbirds and snakes",
+          "url": "https://www.youtube.com/watch?v=NY4qLpJ7RQQ"
+        },
+        {
+          "titulo": "top livros de divulgação científica",
+          "url": "https://www.youtube.com/watch?v=4QIVkrietxA&t=39s"
+        }
+      ]
+    },
+    {
+      "titulo": "LET'S PLAY A GAME",
+      "cor": "black",
+      "videos": [
+        {
+          "titulo": "ori and the will of the wisps",
+          "url": "https://www.youtube.com/watch?v=2reK8k8nwBc"
+        },
+        {
+          "titulo": "limbo",
+          "url": "https://www.youtube.com/watch?v=Y4HSyVXKYz8"
+        },
+        {
+          "titulo": "league of legends",
+          "url": "https://www.youtube.com/watch?v=u9fFG4ZLp9Y"
+        }
+      ]
+    }
+  ]
+}
