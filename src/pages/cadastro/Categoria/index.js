@@ -24,8 +24,8 @@ function CadastroCategoria() {
     }
 
     function handleChange(info) {
-        const { getAttribute, value } = info.target;
-        setValue(getAttribute('name'), value);
+        const { name, value } = info.target;
+        setValue(name, value);
     }
 
     return (
