@@ -1,0 +1,10 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "MEET FOLKLORE",
+            "descricao": "Taylor Swift's New Album",
+            "cor": "#000000"
+        }
+    ]
+}
