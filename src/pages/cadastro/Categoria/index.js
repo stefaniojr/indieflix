@@ -27,7 +27,9 @@ function CadastroCategoria() {
   }
 
   useEffect(() => {
-    const URL = 'https://indieflix.herokuapp.com/categorias';
+    const URL = window.location.hostname.includes('localhost')
+      ? 'http:localhost:8080/categorias'
+      : 'https://indieflix.herokuapp.com/categorias';
     fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
