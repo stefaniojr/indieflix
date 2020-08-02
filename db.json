@@ -1,10 +1,210 @@
 {
-    "categorias": [
-        {
-            "id": 1,
-            "nome": "MEET FOLKLORE",
-            "descricao": "Taylor Swift's New Album",
-            "cor": "#000000"
-        }
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "MEET FOLKLORE",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "Taylor Swift's New Album",
+        "url": "https://www.youtube.com/playlist?list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "THE BEST OF THE NEIGHBOURHOOD",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "A mix of The Neighbourhood's majority sucess",
+        "url": "https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "REVISITING ULTRAVIOLENCE",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "Revisiting Lana Del Rey's third album, Ultraviolence",
+        "url": "https://www.youtube.com/playlist?list=PLMFUaRAk0WsZFrGmAm8MGRiRZ-5XUeBCy"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "OUR MOVIES RECOMENDATIONS",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "WHAT WE LOVE READING",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "LET'S PLAY A GAME",
+      "cor": "#000000",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "TAYLOR SWIFT'S NEW ALBUM",
+      "url": "https://www.youtube.com/watch?v=osdoLjUNFnA"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "my tears ricochet",
+      "url": "https://www.youtube.com/watch?v=OWbDJFtHl3w&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=6&t=0s"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "illicit affairs",
+      "url": "https://www.youtube.com/watch?v=MLV2SJKWk4M&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=11&t=0s"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "peace",
+      "url": "https://www.youtube.com/watch?v=HpxX4ZE4KWE&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=16&t=0s"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "hoax",
+      "url": "https://www.youtube.com/watch?v=ryLGxpjwAhM&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=17&t=0s"
+    },
+    {
+      "id": 5,
+      "categoriaId": 2,
+      "titulo": "sweater weather",
+      "url": "https://www.youtube.com/watch?v=GCdwKhTtNNw"
+    },
+    {
+      "id": 6,
+      "categoriaId": 2,
+      "titulo": "daddy issues",
+      "url": "https://www.youtube.com/watch?v=_lMlsPQJs6U"
+    },
+    {
+      "id": 7,
+      "categoriaId": 2,
+      "titulo": "afraid",
+      "url": "https://www.youtube.com/watch?v=LILL0AV0938"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "R.I.P 2 my youth",
+      "url": "https://www.youtube.com/watch?v=vKH-rcO6PA8&list=OLAK5uy_lFi_Re6fL1OEsudm7jjWAbRvLWNCX4CYA&index=4"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "afraid (live)",
+      "url": "https://www.youtube.com/watch?v=kwZk3G-44kI&list=OLAK5uy_lFi_Re6fL1OEsudm7jjWAbRvLWNCX4CYA&index=45"
+    },
+    {
+      "id": 10,
+      "categoriaId": 3,
+      "titulo": "west coast",
+      "url": "https://www.youtube.com/watch?v=oKxuiw3iMBE&list=PLMFUaRAk0WsZFrGmAm8MGRiRZ-5XUeBCy&index=3"
+    },
+    {
+      "id": 11,
+      "categoriaId": 3,
+      "titulo": "shades of cool",
+      "url": "https://www.youtube.com/watch?v=rJABBmAMXnY&list=PLMFUaRAk0WsZFrGmAm8MGRiRZ-5XUeBCy&index=2"
+    },
+    {
+      "id": 12,
+      "categoriaId": 3,
+      "titulo": "ultraviolence",
+      "url": "https://www.youtube.com/watch?v=ZFWC4SiZBao&list=PLMFUaRAk0WsZFrGmAm8MGRiRZ-5XUeBCy&index=1"
+    },
+    {
+      "id": 13,
+      "categoriaId": 4,
+      "titulo": "interstellar",
+      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+    },
+    {
+      "id": 14,
+      "categoriaId": 4,
+      "titulo": "donnie darko",
+      "url": "https://www.youtube.com/watch?v=FZZqcmaALJs"
+    },
+    {
+      "id": 15,
+      "categoriaId": 4,
+      "titulo": "a chegada",
+      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+    },
+    {
+      "id": 16,
+      "categoriaId": 4,
+      "titulo": "a teoria de tudo",
+      "url": "https://www.youtube.com/watch?v=SbUVNHdPE4w"
+    },
+    {
+      "id": 17,
+      "categoriaId": 5,
+      "titulo": "the foundation trilogy",
+      "url": "https://www.youtube.com/watch?v=NV9Er9kwXWo"
+    },
+    {
+      "id": 18,
+      "categoriaId": 5,
+      "titulo": "the ballad of songbirds and snakes",
+      "url": "https://www.youtube.com/watch?v=NY4qLpJ7RQQ"
+    },
+    {
+      "id": 19,
+      "categoriaId": 5,
+      "titulo": "top livros de divulgação científica",
+      "url": "https://www.youtube.com/watch?v=4QIVkrietxA&t=0s"
+    },
+    {
+      "id": 20,
+      "categoriaId": 6,
+      "titulo": "ori and the will of the wisps",
+      "url": "https://www.youtube.com/watch?v=2reK8k8nwBc"
+    },
+    {
+      "id": 21,
+      "categoriaId": 6,
+      "titulo": "limbo",
+      "url": "https://www.youtube.com/watch?v=Y4HSyVXKYz8"
+    },
+    {
+      "id": 22,
+      "categoriaId": 6,
+      "titulo": "league of legends",
+      "url": "https://www.youtube.com/watch?v=u9fFG4ZLp9Y"
+    },
+    {
+      "titulo": "the last great american dynasty",
+      "url": "https://www.youtube.com/watch?v=2s5xdY6MCeI&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=4&t=0s",
+      "categoriaId": 1,
+      "id": 23
+    },
+    {
+      "titulo": "mirrorball",
+      "url": "https://www.youtube.com/watch?v=pEY-GPsru_E&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=8&t=0s",
+      "categoriaId": 1,
+      "id": 24
+    }
+  ]
 }
