@@ -1,12 +1,12 @@
 import React from 'react';
-import { FooterBase } from './styles';
+import { FooterBase, LogoFooter } from './styles';
 import Logo from '../../assets/img/Logo.png';
 
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.alura.com.br/">
-        <img src={Logo} alt="indieflix logo" />
+      <a href="/">
+        <LogoFooter as="img" src={Logo} alt="indieflix logo" />
       </a>
       <p>
         Orgulhosamente criado durante a

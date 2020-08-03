@@ -2,34 +2,34 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "MEET FOLKLORE",
+      "titulo": "FOLKLORE",
       "cor": "#000000",
       "link_extra": {
-        "text": "Taylor Swift's New Album",
+        "text": "O novo e inesperado álbum de Taylor Swift",
         "url": "https://www.youtube.com/playlist?list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8"
       }
     },
     {
       "id": 2,
-      "titulo": "THE BEST OF THE NEIGHBOURHOOD",
+      "titulo": "O MELHOR DE THE NEIGHBOURHOOD",
       "cor": "#000000",
       "link_extra": {
-        "text": "A mix of The Neighbourhood's majority sucess",
+        "text": "Um mix com os maiores sucessos",
         "url": "https://www.youtube.com/channel/UCDAXusYwRJpiSP2CHnXnVnw"
       }
     },
     {
       "id": 3,
-      "titulo": "REVISITING ULTRAVIOLENCE",
+      "titulo": "REVISITANDO ULTRAVIOLENCE",
       "cor": "#000000",
       "link_extra": {
-        "text": "Revisiting Lana Del Rey's third album, Ultraviolence",
+        "text": "Revisitando o terceiro álbum de Lana Del Rey, Ultraviolence",
         "url": "https://www.youtube.com/playlist?list=PLMFUaRAk0WsZFrGmAm8MGRiRZ-5XUeBCy"
       }
     },
     {
       "id": 4,
-      "titulo": "OUR MOVIES RECOMENDATIONS",
+      "titulo": "O QUE ESTAMOS ASSISTINDO",
       "cor": "#000000",
       "link_extra": {
         "text": "",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "titulo": "WHAT WE LOVE READING",
+      "titulo": "ESTANTE DA REDAÇÃO",
       "cor": "#000000",
       "link_extra": {
         "text": "",
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "titulo": "LET'S PLAY A GAME",
+      "titulo": "BORA JOGAR?",
       "cor": "#000000",
       "link_extra": {
         "text": "",
@@ -59,7 +59,7 @@
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "TAYLOR SWIFT'S NEW ALBUM",
+      "titulo": "FOLKLORE: O NOVO ÁLBUM DE TAYLOR SWIFT",
       "url": "https://www.youtube.com/watch?v=osdoLjUNFnA"
     },
     {

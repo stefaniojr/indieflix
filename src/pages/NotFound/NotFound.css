@@ -1,0 +1,26 @@
+.page-container .bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    mix-blend-mode: overlay;
+    background-attachment: fixed;
+    background-image: url(./images/gretchen.gif);
+    margin: 0;
+    padding: 0;
+  
+  }
+
+  .title {
+    font-family: 'sans-serif', bold;
+    font-size: 300px;
+    color: white;
+    display: flex;
+    background-position: center;
+    align-items: center;
+    background-size: cover;
+    justify-content: center;
+}
+

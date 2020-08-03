@@ -20,7 +20,7 @@ function Home() {
   return (
     <PageDefault paddingAll={0}>
 
-      {dadosIniciais.length === 0 && (<div>Checking data...</div>)}
+      {dadosIniciais.length === 0 && (<div>Checando dados...</div>)}
 
       {dadosIniciais.map((categoria, indice) => {
         if (indice === 0) {
@@ -29,7 +29,7 @@ function Home() {
               <BannerMain
                 videoTitle={dadosIniciais[0].videos[0].titulo}
                 url={dadosIniciais[0].videos[0].url}
-                videoDescription="On “Folklore,” a quarantine album made largely with Aaron Dessner from the National, she swerves away from her last few releases, embracing atmospheric rock — and other characters’ points of view."
+                videoDescription="Em “Folklore”, um álbum de quarentena feito em grande parte com a colaboração de Aaron Dessner (The National), Taylor se afasta de seus últimos lançamentos, abraçando o rock atmosférico - e conta histórias sob a perspectiva de uma paleta variada de personagens."
               />
               <Carousel
                 ignoreFirstVideo

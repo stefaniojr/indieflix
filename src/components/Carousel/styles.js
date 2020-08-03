@@ -5,9 +5,9 @@ export const Title = styled.h3`
   font-weight: bold;
   font-size: 16px;
   line-height: 1;
-  margin-bottom: 16px;
+  margin-bottom: 15px;
   display: inline-block;
-  padding: 16px;
+  padding: 15px;
   background: red;
   line-height: 1;
   border-radius: 4px;

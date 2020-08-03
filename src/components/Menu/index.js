@@ -11,7 +11,7 @@ function Menu() {
         <img className="Logo" src={Logo} alt="indieflix logo" />
       </Link>
       <Button as={Link} className="ButtonLink" to="/cadastro/video">
-        NEW VIDEO
+        NOVO VÍDEO
       </Button>
     </nav>
 
